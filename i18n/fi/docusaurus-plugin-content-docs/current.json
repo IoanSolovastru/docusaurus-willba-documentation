@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Getting started": {
+    "message": "Getting started",
+    "description": "The label for category Getting started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Getting started.link.generated-index.description": {
+    "message": "Start willba right away",
+    "description": "The generated-index page description for category Getting started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sales": {
+    "message": "Sales",
+    "description": "The label for category Sales in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Order": {
+    "message": "Order",
+    "description": "The label for category Order in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Strapi": {
+    "message": "Strapi",
+    "description": "The label for category Strapi in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Strapi.link.generated-index.description": {
+    "message": "Start exploring strapi",
+    "description": "The generated-index page description for category Strapi in sidebar tutorialSidebar"
+  }
+}
