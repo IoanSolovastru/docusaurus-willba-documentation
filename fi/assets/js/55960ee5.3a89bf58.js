@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwillba=self.webpackChunkwillba||[]).push([[121],{8070:a=>{a.exports=JSON.parse('[{"label":"strapi","permalink":"/docusaurus-willba-documentation/fi/tags/strapi","count":1}]')}}]);
