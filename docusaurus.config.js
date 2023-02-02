@@ -3,7 +3,7 @@
 
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-const BASE_URL = "/docs";
+const BASE_URL = "/docusaurus-willba-documentation";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Willba doc",
