@@ -11,7 +11,7 @@ const config = {
   favicon: "img/willba.png",
 
   // Set the production url of your site here
-  url: "https://docusaurus-willba-documentation.github.io",
+  url: "https://ioansolovastru.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "IoanSolovastru", // Usually your GitHub org/user name.
   projectName: "docusaurus-willba-documentation", // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  // deploymentBranch: "main",
   trailingSlash: false,
 
   onBrokenLinks: "warn",
