@@ -20,9 +20,10 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "IoanSolovastru", // Usually your GitHub org/user name.
   projectName: "docusaurus-willba-documentation", // Usually your repo name.
-  // deploymentBranch: "main",
+  deploymentBranch: "gh-pages",
+  trailingSlash: false,
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internalization, you can use this field to set useful
