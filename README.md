@@ -1,41 +1,19 @@
-# Website
+### Steps
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+There is a predefined branch: gh-pages
+All the documentation is from deployed from builds from gh-pages. Be sure that everything is ok on that branch.
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
+### Build phase
 
 ```
-$ yarn start
+npm run clear
+npm run build
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### Deploy phase
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
+It did not work with USE_NAME so I had to configure a SSH key.
 
 ```
-$ USE_SSH=true yarn deploy
+USE_SSH=true npm run deploy
 ```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

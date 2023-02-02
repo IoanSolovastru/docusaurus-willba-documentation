@@ -62,7 +62,7 @@ const config = {
       darkMode: true,
       colorMode: {
         // "light" | "dark"
-        defaultMode: "dark",
+        defaultMode: "light",
       },
       // Replace with your project's social card
       image: "img/willba.png",
